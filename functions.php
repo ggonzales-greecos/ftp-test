@@ -6697,4 +6697,8 @@ GROUP BY t.task_label) as revenue_table
 ON client.ID = revenue_table.client_id
 ORDER BY client.client_name ASC"); 
 }
+
+function samplesample(){
+	
+}
 ?>
